@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TrainingPlanDesktop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TrainingPlanDesktop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
